@@ -6,3 +6,9 @@ body {
     max-width: 800px;
     padding: 2em 2em 4em;
 }
+a {
+    color: #34b4eb;
+}
+ul {
+    color: #6507b3;
+}
